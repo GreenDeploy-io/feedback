@@ -21,18 +21,18 @@ GreenDeploy.io aims to do the same but for commonly used services such as GitHub
 
 ## Feedback needed
 
-1a. illustration 1 - Dark
+### 1a. illustration 1 - Dark
 
 ![](images/illustration-01-dark.jpg)
 
-1b. illustration 1 - White
+### 1b. illustration 1 - White
 
 ![](images/illustration-01-dark-white.jpg)
 
-2a. illustration 2 - no characters
+### 2a. illustration 2 - no characters
 
 ![](images/illustration-02-option1.jpg)
 
-2b. illustration 2 - with characters
+### 2b. illustration 2 - with characters
 
 ![](images/illustration-02-option2.jpg)
